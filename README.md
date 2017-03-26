@@ -8,7 +8,8 @@
 ---
 
 ### Stack Overflow Question 34985404
-Xcode project & source code related to [Do not break the superclass: Pass the message along](http://stackoverflow.com/a/35017733/218152) anwser.
+
+Xcode project & source code related to [Do not break the superclass: Pass the message along](https://stackoverflow.com/questions/34985404/calling-resignfirstresponder-doesnt-work-within-overrides-firstresponder/35017733#35017733) answer.
 
 ---
 
@@ -18,6 +19,6 @@ Xcode project & source code related to [Do not break the superclass: Pass the me
 
 **References:**
 
-- SO-34985404 on [Stack Overflow](http://stackoverflow.com/questions/34985404/calling-resignfirstresponder-doesnt-work-within-overrides-firstresponder)
+- Question [34985404](https://stackoverflow.com/questions/34985404) on Stack Overflow
 - This and other answers posted on [Swift Recipes](http://swiftarchitect.com/recipes/)
 
